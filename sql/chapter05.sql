@@ -3,7 +3,7 @@
 #
 
 #
-# chapter02.sql
+# chapter05.sql
 #
 CREATE SCHEMA IF NOT EXISTS book;
 USE book;
